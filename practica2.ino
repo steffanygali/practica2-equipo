@@ -37,3 +37,4 @@ void loop() {
     lcd.print(matriculas[currentIndex]);
     delay(2000);
   }
+}
